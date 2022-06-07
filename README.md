@@ -19,7 +19,7 @@
 
 ## Практика:
 продемонстрировать работу at по запуску задачи записи в файл произвольной строки
-![!](https://github.com/blackrose198/lab8/blob/main/изображение_2022-05-09_173854294.png)
+![!](https://github.com/AntyufeevA/lab8/blob/main/1.jpg)
 
 продемонстрировать работу cron по запуску задачи записи в файл произвольной строки
-![!](https://github.com/blackrose198/lab8/blob/main/изображение_2022-05-09_175840693.png)
+![!](https://github.com/AntyufeevA/lab8/blob/main/2.jpg)
